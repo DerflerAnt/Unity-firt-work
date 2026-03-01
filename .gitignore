@@ -2,5 +2,5 @@
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
-/[Logs]/
-/[UserSettings]/
+/Logs/
+/UserSettings/
