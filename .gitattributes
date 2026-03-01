@@ -1,0 +1,21 @@
+# Спільні налаштування для текстових файлів
+* text=auto
+
+# Скрипти Unity та конфіги
+*.cs diff=csharp
+*.unity text
+*.asset text
+*.prefab text
+*.mat text
+*.metadata text
+*.controller text
+*.asmdef text
+
+# Великі файли (якщо захочеш юзати LFS)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.wav binary
+*.mp3 binary
+*.psd binary
+*.fbx binary
