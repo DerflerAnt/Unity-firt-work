@@ -1,2 +1,2 @@
-3D Essentials - Виконав
+3D Essentials - Виконав,
 Programming Essentials - Виконав
